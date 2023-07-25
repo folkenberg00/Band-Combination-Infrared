@@ -2,7 +2,7 @@
 
 '''
 	25.07.2023
-	Folkenberg, Siro
+	Robert Folkenberg Siro
 	Nuclear Eng. & Thermal Physics, NRNU MEPhI
 	Geospatial (Optical Multispectral & Hyperspectral RS), The Technical University of Kenya 2019
 '''
