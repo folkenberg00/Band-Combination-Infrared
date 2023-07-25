@@ -14,5 +14,3 @@
   <li><a href="https://github.com/folkenberg00/Band-Combination-Infrared/blob/main/infrared.py">infrared.py </a>- Python program</li>
   <li><a href="https://github.com/folkenberg00/Band-Combination-Infrared/blob/main/output/color.infrared.png">color.infrared.png </a>- Band composite plot</li>
 </ul>
-
-N/B: You can substitute the provided data in the spreadsheet with yours. Just ensure that the column names are retained.
